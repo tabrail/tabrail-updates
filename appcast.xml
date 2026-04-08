@@ -1,13 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss
-  version="2.0"
-  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
->
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Tabrail Updates</title>
     <link>https://github.com/tabrail/tabrail-updates/releases</link>
     <description>Latest Tabrail releases.</description>
     <language>en</language>
+    <item>
+      <title>Tabrail 0.0.4</title>
+      <link>https://github.com/tabrail/tabrail-updates/releases/tag/v0.0.4</link>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+      <pubDate>Wed, 08 Apr 2026 15:12:02 +0000</pubDate>
+      <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v0.0.4/Tabrail-0.0.4.zip" length="12402304" type="application/octet-stream" sparkle:edSignature="CphCkhqnuNsjLucTzvpwkDBiKEOYDuKWU97y8ZyXzCck5Z+0HC52KOIzpm7FK3uE5xF8FIPKVJf/qyBirvJCCA==" />
+    </item>
+    <item>
+      <title>Tabrail 1.0.0</title>
+      <link>https://github.com/tabrail/tabrail-updates/releases/tag/v1.0.0</link>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v1.0.0/Tabrail-1.0.0.dmg" length="0" type="application/octet-stream" sparkle:edSignature="REPLACE_WITH_ED_SIGNATURE" />
+    </item>
   </channel>
 </rss>
