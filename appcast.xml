@@ -11,6 +11,10 @@
       <sparkle:version>10</sparkle:version>
       <sparkle:shortVersionString>0.0.7</sparkle:shortVersionString>
       <pubDate>Wed, 08 Apr 2026 16:08:52 +0000</pubDate>
+      <sparkle:releaseNotesLink xml:lang="en">https://updates.tabrail.com/release-notes/0.0.7/en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="zh-Hans">https://updates.tabrail.com/release-notes/0.0.7/zh-Hans.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ja">https://updates.tabrail.com/release-notes/0.0.7/ja.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ko">https://updates.tabrail.com/release-notes/0.0.7/ko.html</sparkle:releaseNotesLink>
       <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v0.0.7/Tabrail-0.0.7.zip" length="12400348" type="application/octet-stream" sparkle:edSignature="3OhjL/k8bHGCdVpfkxacxKUrUYreqQDBL9JFfuMDZrWlc2wS3nfDm/k8R6kbufbvOMGSDtkB0IvdCYTVMbefCg==" />
     </item>
   </channel>
