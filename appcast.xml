@@ -8,10 +8,10 @@
     <item>
       <title>Tabrail 0.0.6</title>
       <link>https://github.com/tabrail/tabrail-updates/releases/tag/v0.0.6</link>
-      <sparkle:version>8</sparkle:version>
+      <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
-      <pubDate>Wed, 08 Apr 2026 15:43:02 +0000</pubDate>
-      <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v0.0.6/Tabrail-0.0.6.zip" length="12404099" type="application/octet-stream" sparkle:edSignature="O9sqOObIUWkkNPTMi89eEynKOTKWM7DUjtUzcUrA71JLxcMM/itfdk/af1RBfzdjh8JPAuJzj0/p/eng1uc1CA==" />
+      <pubDate>Wed, 08 Apr 2026 15:56:54 +0000</pubDate>
+      <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v0.0.6/Tabrail-0.0.6.zip" length="12400770" type="application/octet-stream" sparkle:edSignature="R3d1g4tUPJDytuQGuBQSoD5fQnmeIGSHKimf4/Q5/V7XuLmli8SLaO3pS4mnxJH0G0nDOfSDXklqIPMSUFrdDw==" />
     </item>
     <item>
       <title>Tabrail 1.0.0</title>
