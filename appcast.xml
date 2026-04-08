@@ -6,12 +6,12 @@
     <description>Latest Tabrail releases.</description>
     <language>en</language>
     <item>
-      <title>Tabrail 0.0.4</title>
-      <link>https://github.com/tabrail/tabrail-updates/releases/tag/v0.0.4</link>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
-      <pubDate>Wed, 08 Apr 2026 15:12:02 +0000</pubDate>
-      <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v0.0.4/Tabrail-0.0.4.zip" length="12402304" type="application/octet-stream" sparkle:edSignature="CphCkhqnuNsjLucTzvpwkDBiKEOYDuKWU97y8ZyXzCck5Z+0HC52KOIzpm7FK3uE5xF8FIPKVJf/qyBirvJCCA==" />
+      <title>Tabrail 0.0.6</title>
+      <link>https://github.com/tabrail/tabrail-updates/releases/tag/v0.0.6</link>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
+      <pubDate>Wed, 08 Apr 2026 15:41:34 +0000</pubDate>
+      <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v0.0.6/Tabrail-0.0.6.zip" length="12403399" type="application/octet-stream" sparkle:edSignature="ft1VQ47ALyynyIEKWLWVsgcFooL/mcaXlJZFnEfo+FQRNIKQTTzDCqDLY1aArDTJWU6sCsCO4RS4Rxl9kHaEAA==" />
     </item>
     <item>
       <title>Tabrail 1.0.0</title>
