@@ -13,13 +13,5 @@
       <pubDate>Wed, 08 Apr 2026 16:08:52 +0000</pubDate>
       <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v0.0.7/Tabrail-0.0.7.zip" length="12400348" type="application/octet-stream" sparkle:edSignature="3OhjL/k8bHGCdVpfkxacxKUrUYreqQDBL9JFfuMDZrWlc2wS3nfDm/k8R6kbufbvOMGSDtkB0IvdCYTVMbefCg==" />
     </item>
-    <item>
-      <title>Tabrail 1.0.0</title>
-      <link>https://github.com/tabrail/tabrail-updates/releases/tag/v1.0.0</link>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tabrail/tabrail-updates/releases/download/v1.0.0/Tabrail-1.0.0.dmg" length="0" type="application/octet-stream" sparkle:edSignature="REPLACE_WITH_ED_SIGNATURE" />
-    </item>
   </channel>
 </rss>
